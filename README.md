@@ -18,3 +18,44 @@
 
 ### test_result_1.jtl
 ![test_result](images/Test_Result%20JMeter%20(CLI%20Mode)%20PreOptimization.png)
+
+## Profiling Optimizations
+
+### all-student
+#### Pre Optimized
+![all_student](images/all-student%20not%20optimized.png)
+
+#### Optimized
+![all_student_optimized](images/all-student%20optimized.png)
+
+From 5275ms execution time 272ms.
+
+### all-student
+#### Pre Optimized
+![all_student_name](images/all-student-name%20not%20optimized.png)
+
+#### Optimized
+![all_student_name_optimized](images/all-student-name%20optimized.png)
+
+From 635ms to 198ms.
+
+### highest-gpa
+#### Pre Optimized
+![highest_gpa](images/highest-gpa%20not%20optimized.png)
+
+#### Optimized
+![highest_gpa_optimized](images/highest-gpa%20optimized.png)
+
+From 323ms to 255ms.
+
+
+
+
+
+
+
+
+
+
+
+
