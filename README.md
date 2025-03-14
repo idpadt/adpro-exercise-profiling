@@ -14,6 +14,8 @@
 ### Graph Result
 ![graph_result](images/Graph_Results%20JMeter%20PreOptimization.png)
 
+
+
 ## JMeter Performance Testing Pre-Optimization (CLI Mode)
 
 ### test_result_1.jtl
@@ -28,7 +30,7 @@
 #### Optimized
 ![all_student_optimized](images/all-student%20optimized.png)
 
-From 5275ms execution time 272ms.
+From 5275ms execution time to 272ms.
 
 ### all-student
 #### Pre Optimized
@@ -48,6 +50,28 @@ From 635ms to 198ms.
 
 From 323ms to 255ms.
 
+
+
+## JMeter Performance Testing Post-Optimization (GUI Mode)
+
+### View Result Tree
+![view_result_tree](images/View_Results_Tree%20JMeter%20PostOptimization.png)
+
+### View Results in Table
+![view_results_in_table](images/View_Results_in_Table%20JMeter%20PostOptimization.png)
+
+### Summary Report
+![summary_report](images/Summary_Report%20JMeter%20PostOptimization.png)
+
+### Graph Result
+![graph_result](images/Graph_Results%20JMeter%20PostOptimization.png)
+
+
+
+## Conclusion
+
+Optimizing execution time with profiling positively affects the performance, as shown in JMeter results post 
+optimization. The result shows a much faster response time from endpoints.
 
 
 
