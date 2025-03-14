@@ -15,11 +15,11 @@ public class StudentCourse {
     private Long id;
 
     @ManyToOne
-    @JoinColumn(name = "student_id", referencedColumnName = "id")
+    // @JoinColumn(name = "student_id", referencedColumnName = "id")
     private Student student;
 
     @ManyToOne
-    @JoinColumn(name = "course_id", referencedColumnName = "id")
+    // @JoinColumn(name = "course_id", referencedColumnName = "id")
     private Course course;
 
     // Constructors
